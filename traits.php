@@ -2,17 +2,17 @@
   trait hello{
       public function sayHello()
       {
-          echo "say hello";
+          echo "say hello\n";
       }
        public function sayHi()
       {
-          echo "say Hi";
+          echo "say Hi\n";
       }
   }
   trait bye{
       public function sayBye()
       {
-          echo "say bye bye";
+          echo "say bye bye\n";
       }
   }
   
